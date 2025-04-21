@@ -1,0 +1,35 @@
+.restaurant-details-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.restaurant-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.restaurant-info {
+  flex: 1;
+}
+
+.restaurant-images {
+  margin: 20px 0;
+}
+
+.restaurant-description {
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.restaurant-meta {
+  margin-bottom: 20px;
+}
+
+.restaurant-reviews {
+  margin-top: 30px;
+}
+
+/* Add more custom styles as needed */
